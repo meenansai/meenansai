@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/meenansai/meenansai/master/banner.svg" alt="" width="100%">
 </p>
 
-<p>Welcome to my page! </br> I'm Sai Meenan Vooturi, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 3rd Year <a href="cbit.ac.in">@CBIT</a></p>
+<p>Welcome to my page! </br> I'm Sai Meenan Vooturi, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE <a href="cbit.ac.in">@CBIT</a></p>
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JS libraries
 - 🤝 I’m open to collaborate on any opensource project
 - 💬 Ask me about anything, I'm happy to help
-- 📫 How to reach me: [My Portfolio](https://meenansai.github.io/my-portfolio/)
+- 📫 How to reach me: [Portfolio](https://meenansai.github.io/my-portfolio/)
 - 😄 Pronouns: he/him
 
 ### Things I code with
