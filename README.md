@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meenansai/meenansai/master/banner.svg" alt="" width="100%">
+  <img src="https://raw.githubusercontent.com/meenansai/meenansai/master/banner.svg?token=AKPOAHQEINYYUXMMAY4DLWC7E65UU" alt="" width="100%">
 </p>
 
 <p>Welcome to my page! </br> I'm Sai Meenan Vooturi, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 3rd Year <a href="cbit.ac.in">@CBIT</a></p>
