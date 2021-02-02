@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Projects
 - 🤝 I’m open to collaborate on any opensource project
 - 💬 Ask me about anything, I'm happy to help
-- 📫 How to reach me: [Portfolio](https://meenansai.github.io/my-portfolio/)
 - 😄 Pronouns: he/him
 
 ### Things I code with
