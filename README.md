@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/meenansai/meenansai/master/banner.svg" alt="" width="100%">
 </p>
 
-<p>Welcome to my page! </br> I'm Sai Meenan Vooturi. </b> Currently pursuing BE <a href="cbit.ac.in">@CBIT</a></p>
+<p>Welcome to my page! </br> I'm Sai Meenan Vooturi. </b></p>
 
 Here are some ideas to get you started:
 
